@@ -1,0 +1,1 @@
+Spring Boot sample application used to test online services like Codeship / Heroku / Buddy 
